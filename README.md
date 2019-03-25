@@ -1,7 +1,7 @@
 # Python Finance
 
-# This repository is a compilation of scripts & tools designed to process stock data
-# With these scripts you will be able to:
+This repository is a compilation of scripts & tools designed to process stock data
+With these scripts you will be able to:
  - Gather
  - Organize
  - Generate Charts
