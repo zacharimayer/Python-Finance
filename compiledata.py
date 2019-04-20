@@ -74,7 +74,7 @@ def compilte_data():
         if count % 10 == 0:
             print(count)
 
-print(main_df.head())
-main_df.to_csv('sp500_joined_closes.csv')
+        print(main_df.head())
+        main_df.to_csv('sp500_joined_closes.csv')
 
 compilte_data()
