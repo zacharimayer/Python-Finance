@@ -43,5 +43,5 @@ def visualize_data():
     plt.tight_layout() # Just to clean it more
     plt.show()
 
-#visualize_data()
+visualize_data()
 #uncomment to run
