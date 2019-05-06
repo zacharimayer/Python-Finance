@@ -96,6 +96,6 @@ def do_ml(ticker):
     return confidence
 
 do_ml('BAC') # Bank of America
-
+#uncomment to run
 # Increased Accuracy
 # Might get error, doesn't seem to matter for the output.

@@ -42,6 +42,5 @@ def compile_data():
     main_df.to_csv('sp500_joined_closes.csv')
 
 compile_data()
-#uncomment this to run.
-
+#
 # Check all that Data in the sp500_joined_closes.csv ;)
