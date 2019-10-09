@@ -19,7 +19,7 @@ from numpy.core.umath_tests import inner1d
 
 def visualize_apple():
     df = pd.read_csv('sp500_joined_closes.csv')
-    df['AAPL'].plot(title='Apple Stock')
+    df['AAPL'].plot(title='Exp12_96-2019')
     plt.show()
 
 visualize_apple()
